@@ -7,8 +7,7 @@ This is a simple quiz application built using React. The app allows users to ans
 - Multiple-choice questions
 - Real-time score tracking
 - User-friendly interface
-- Clear all appointments functionality
-- Edit and delete appointments
+
 
 ## Technologies Used
 - **React**: JavaScript library for building user interfaces.
