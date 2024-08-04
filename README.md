@@ -19,16 +19,6 @@ This is a simple quiz application built using React. The app allows users to ans
 ### 1. `App.js`
 - Main component that holds the state and renders `AppointmentForm` and `AppointmentList`.
 
-### 2. `AppointmentForm.js`
-- Component for adding new appointments.
-- Uses `useState` for managing form input values.
-- Calls `addAppointment` to update the appointment list in the parent component.
-
-### 3. `AppointmentList.js`
-- Displays the list of appointments.
-- Provides functionalities to edit, delete, and clear appointments.
-- Uses `useState` for managing editing state.
-
 ### 4. `Question.js`
 - Displays a single question along with the possible options.
 - Includes a form to submit the selected answer.
